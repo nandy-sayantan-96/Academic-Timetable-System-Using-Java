@@ -1,0 +1,54 @@
+public static void sectionToSlotsLecture(){
+        int unit=1;
+        for(int i=0;i<sectionsVar.length;i+=2){
+	//new addition
+            System.out.println("I= "+i);
+            Courses[] sCourses = sectionsVar[i].getCourses();
+            for(int j=0;j<sCourses.length;j++){
+                System.out.println("J= "+j);
+                if(sCourses[j].getCourseType().equals("Lab")){
+			continue;
+                }        
+                System.out.println("Course = "+sCourses[j].getCode());
+                int slotsRequired = sCourses[j].getContactSlots();
+		Y:
+		while(slotsRequired>0){
+                    System.out.println("SlotsRequired = "+slotsRequired);
+                    int day = ((int)(Math.random()*1000))%5;
+                    System.out.println("Day = "+day);
+                    Instructors ins = sectionsVar[i].getLectureInstructor(j,day);
+                    if(ins == null){
+                        System.out.println("NULL");
+                        continue;
+                    }
+                    System.out.println("Ins = "+ins.getName());
+                    int loopCounter = 0;
+                    int slot;
+                    do{
+                        slot = ((int)(Math.random()*1000))%7;
+                        System.out.println("Slot = "+slot);
+                        if(sectionsVar[i].getAllocatedStatus(day,slot)==0){
+                            if(ins.checkSlot(day,slot)){
+                                break;
+                            }					
+                        }
+                        loopCounter++;
+                        if(loopCounter>15){
+                            System.out.println("Continue to Y");
+                            continue Y;
+                        }	
+                    }while(true);
+                    slotsRequired--;
+                    sectionsVar[i].updateAllocatedStatus(j, day, slot, unit);
+                    sectionsVar[i+1].updateAllocatedStatus(j, day, slot, unit);
+                    sectionsVar[i].getLectureRoom(j).updateAllocation(day, slot, unit);
+                    ins.updateDialySlot(unit, day, slot);
+                    sectionsVar[i].updateInstructorsSlots(j, ins, unit);
+                    sectionsVar[i].setSCIR(day, slot, j, ins, sectionsVar[i].getLectureRoom(j), unit);
+                    sectionsVar[i+1].setSCIR(day, slot, j, ins, sectionsVar[i].getLectureRoom(j), unit);
+                }	
+            }    
+					
+        //New Addition ends here            
+        }//end of section array
+    }//end of method

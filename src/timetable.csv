@@ -1,0 +1,283 @@
+Year,Section,Lab Section,Day,Start time,End time,Slot,Course Code,Course Name,Course Type,Instructor Name,Resource
+2,A,A1,Tue,0920,1010,1,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,A2,Tue,0920,1010,1,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,A1,Tue,1010,1100,2,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,A2,Tue,1010,1100,2,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,A1,Tue,1100,1150,3,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,A2,Tue,1100,1150,3,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,,Tue,1150,1240,4,M(CS)401,Numerical Methods,Lecture,SCH,LG3.1
+2,A,A1,Tue,1330,1420,5,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,A2,Tue,1330,1420,5,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A1,Tue,1420,1510,6,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,A2,Tue,1420,1510,6,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A1,Tue,1510,1600,7,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,A2,Tue,1510,1600,7,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A1,Wed,920,1010,1,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,A2,Wed,920,1010,1,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,A1,Wed,1010,1100,2,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,A2,Wed,1010,1100,2,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,A1,Wed,1100,1150,3,M(CS)491,Numerical Methods Lab,Lab,MD,CSELab Zone2&3
+2,A,A2,Wed,1100,1150,3,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,A,,Wed,1150,1240,4,M(CS)401,Numerical Methods,Lecture,MD,LG3.1
+2,A,A1,Wed,1330,1420,5,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A2,Wed,1330,1420,5,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A1,Wed,1420,1510,6,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A2,Wed,1420,1510,6,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A1,Wed,1510,1600,7,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,A,A2,Wed,1510,1600,7,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A1,Thu,0920,1010,1,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A2,Thu,0920,1010,1,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,A1,Thu,1010,1100,2,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A2,Thu,1010,1100,2,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,A1,Thu,1100,1150,3,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,A,A2,Thu,1100,1150,3,HU481,Technical Report Writing,Lab,SHM,LG3.1
+2,A,,Thu,1150,1240,4,M(CS)401,Numerical Methods,Lecture,SMU,LG3.1
+2,A,,Thu,1330,1420,5,M401,Mathematics-3,Lecture,AKDS,LG3.1
+2,A,,Thu,1420,1510,6,CS401,Communication Engineering & Coding Theory,Lecture,GP,LG3.1
+2,A,,Thu,1510,1600,7,M401,Mathematics-3,Lecture,SS,LG3.1
+2,A,,Fri,0920,1010,1,M401,Mathematics-3,Lecture,AKDS,LG3.1
+2,A,,Fri,1010,1100,2,CS401,Communication Engineering & Coding Theory,Lecture,GP,LG3.1
+2,A,,Fri,1100,1150,3,CS402,Formal Language & Automata Theory,Lecture,KB,LG3.1
+2,A,,Fri,1150,1240,4,CS402,Formal Language & Automata Theory,Lecture,SNR,LG3.1
+2,A,,Fri,1330,1420,5,CS403,Computer Architecture,Lecture,SDS,LG3.1
+2,A,,Fri,1420,1510,6,FREE
+2,A,,Fri,1510,1600,7,CS403,Computer Architecture,Lecture,DB,LG3.1
+2,A,,Sat,0920,1010,1,M401,Mathematics-3,Lecture,OB,LG3.1
+2,A,,Sat,1010,1100,2,CS401,Communication Engineering & Coding Theory,Lecture,SHB,LG3.1
+2,A,,Sat,1100,1150,3,CS402,Formal Language & Automata Theory,Lecture,SNR,LG3.1
+2,A,,Sat,1150,1240,4,CS403,Computer Architecture,Lecture,SDS,LG3.1
+2,A,,Sat,1330,1420,5,CS402,Formal Language & Automata Theory,Lecture,SNS,LG3.1
+2,A,,Sat,1420,1510,6,CS403,Computer Architecture,Lecture,DB,LG3.1
+2,A,,Sat,1510,1600,7,FREE
+2,B,B1,Tue,0920,1010,1,HU481,Technical Report Writing,Lab,OB,LG3.2
+2,B,B2,Tue,0920,1010,1,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,B1,Tue,1010,1100,2,HU481,Technical Report Writing,Lab,OB,LG3.2
+2,B,B2,Tue,1010,1100,2,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,B1,Tue,1100,1150,3,HU481,Technical Report Writing,Lab,OB,LG3.2
+2,B,B2,Tue,1100,1150,3,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,,Tue,1150,1240,4,M401,Mathematics-3,Lecture,AKDS,LG3.2
+2,B,B1,Tue,1330,1420,5,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,B,B2,Tue,1330,1420,5,HU481,Technical Report Writing,Lab,SHR,LG3.2
+2,B,B1,Tue,1420,1510,6,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,B,B2,Tue,1420,1510,6,HU481,Technical Report Writing,Lab,SHR,LG3.2
+2,B,B1,Tue,1510,1600,7,CS493,Computer Architecture Lab,Lab,SDS,CSELab Zone0
+2,B,B2,Tue,1510,1600,7,HU481,Technical Report Writing,Lab,SHR,LG3.2
+2,B,,Wed,920,1010,1,M(CS)401,Numerical Methods,Lecture,SCH,LG3.2
+2,B,,Wed,1010,1100,2,M401,Mathematics-3,Lecture,AKDS,LG3.2
+2,B,,Wed,1100,1150,3,CS402,Formal Language & Automata Theory,Lecture,KB,LG3.2
+2,B,,Wed,1150,1240,4,CS401,Communication Engineering & Coding Theory,Lecture,GP,LG3.2
+2,B,B1,Wed,1330,1420,5,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,B2,Wed,1330,1420,5,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,B,B1,Wed,1420,1510,6,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,B2,Wed,1420,1510,6,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,B,B1,Wed,1510,1600,7,M(CS)491,Numerical Methods Lab,Lab,SCH,CSELab Zone4&5
+2,B,B2,Wed,1510,1600,7,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,B,B1,Thu,0920,1010,1,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,B,B2,Thu,0920,1010,1,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,B,B1,Thu,1010,1100,2,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,B,B2,Thu,1010,1100,2,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,B,B1,Thu,1100,1150,3,CS491,Communication Engineering & Coding Theory Lab,Lab,GP,LG0.1
+2,B,B2,Thu,1100,1150,3,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,B,,Thu,1150,1240,4,M(CS)401,Numerical Methods,Lecture,MD,LG3.2
+2,B,B1,Thu,1330,1420,5,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,B,B2,Thu,1330,1420,5,CS493,Computer Architecture Lab,Lab,KB,CSELab Zone0
+2,B,B1,Thu,1420,1510,6,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,B,B2,Thu,1420,1510,6,CS493,Computer Architecture Lab,Lab,KB,CSELab Zone0
+2,B,B1,Thu,1510,1600,7,CS492,Software Tools Lab,Lab,PK,CSELab Zone2&3
+2,B,B2,Thu,1510,1600,7,CS493,Computer Architecture Lab,Lab,KB,CSELab Zone0
+2,B,,Fri,0920,1010,1,M(CS)401,Numerical Methods,Lecture,SMU,LG3.2
+2,B,,Fri,1010,1100,2,M401,Mathematics-3,Lecture,OB,LG3.2
+2,B,,Fri,1100,1150,3,CS401,Communication Engineering & Coding Theory,Lecture,GP,LG3.2
+2,B,,Fri,1150,1240,4,CS402,Formal Language & Automata Theory,Lecture,SNS,LG3.2
+2,B,,Fri,1330,1420,5,CS402,Formal Language & Automata Theory,Lecture,SNR,LG3.2
+2,B,,Fri,1420,1510,6,CS403,Computer Architecture,Lecture,SDS,LG3.2
+2,B,,Fri,1510,1600,7,FREE
+2,B,,Sat,0920,1010,1,M401,Mathematics-3,Lecture,SS,LG3.2
+2,B,,Sat,1010,1100,2,CS402,Formal Language & Automata Theory,Lecture,SNR,LG3.2
+2,B,,Sat,1100,1150,3,CS401,Communication Engineering & Coding Theory,Lecture,SHB,LG3.2
+2,B,,Sat,1150,1240,4,CS403,Computer Architecture,Lecture,DB,LG3.2
+2,B,,Sat,1330,1420,5,CS403,Computer Architecture,Lecture,SDS,LG3.2
+2,B,,Sat,1420,1510,6,FREE
+2,B,,Sat,1510,1600,7,CS403,Computer Architecture,Lecture,DB,LG3.2
+2,C,C1,Tue,0920,1010,1,HU481,Technical Report Writing,Lab,SS,LG3.3
+2,C,C2,Tue,0920,1010,1,M(CS)491,Numerical Methods Lab,Lab,SMU,Annex3.1
+2,C,C1,Tue,1010,1100,2,HU481,Technical Report Writing,Lab,SS,LG3.3
+2,C,C2,Tue,1010,1100,2,M(CS)491,Numerical Methods Lab,Lab,SMU,Annex3.1
+2,C,C1,Tue,1100,1150,3,HU481,Technical Report Writing,Lab,SS,LG3.3
+2,C,C2,Tue,1100,1150,3,M(CS)491,Numerical Methods Lab,Lab,SMU,Annex3.1
+2,C,,Tue,1150,1240,4,M401,Mathematics-3,Lecture,OB,LG3.3
+2,C,,Tue,1330,1420,5,M(CS)401,Numerical Methods,Lecture,SCH,LG3.3
+2,C,,Tue,1420,1510,6,CS402,Formal Language & Automata Theory,Lecture,KB,LG3.3
+2,C,,Tue,1510,1600,7,CS403,Computer Architecture,Lecture,DB,LG3.3
+2,C,C1,Wed,920,1010,1,CS492,Software Tools Lab,Lab,SNR,CSELab Zone4&5
+2,C,C2,Wed,920,1010,1,CS493,Computer Architecture Lab,Lab,SMU,CSELab Zone0
+2,C,C1,Wed,1010,1100,2,CS492,Software Tools Lab,Lab,SNR,CSELab Zone4&5
+2,C,C2,Wed,1010,1100,2,CS493,Computer Architecture Lab,Lab,SMU,CSELab Zone0
+2,C,C1,Wed,1100,1150,3,CS492,Software Tools Lab,Lab,SNR,CSELab Zone4&5
+2,C,C2,Wed,1100,1150,3,CS493,Computer Architecture Lab,Lab,SMU,CSELab Zone0
+2,C,,Wed,1150,1240,4,M401,Mathematics-3,Lecture,OB,LG3.3
+2,C,,Wed,1330,1420,5,M(CS)401,Numerical Methods,Lecture,MD,LG3.3
+2,C,,Wed,1420,1510,6,CS401,Communication Engineering & Coding Theory,Lecture,GP,LG3.3
+2,C,,Wed,1510,1600,7,CS402,Formal Language & Automata Theory,Lecture,KB,LG3.3
+2,C,,Thu,0920,1010,1,M(CS)401,Numerical Methods,Lecture,SMU,LG3.3
+2,C,,Thu,1010,1100,2,M401,Mathematics-3,Lecture,SS,LG3.3
+2,C,,Thu,1100,1150,3,CS401,Communication Engineering & Coding Theory,Lecture,SHB,LG3.3
+2,C,,Thu,1150,1240,4,CS402,Formal Language & Automata Theory,Lecture,SNS,LG3.3
+2,C,C1,Thu,1330,1420,5,M(CS)491,Numerical Methods Lab,Lab,SMU,CSELab Zone4&5
+2,C,C2,Thu,1330,1420,5,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C1,Thu,1420,1510,6,M(CS)491,Numerical Methods Lab,Lab,SMU,CSELab Zone4&5
+2,C,C2,Thu,1420,1510,6,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C1,Thu,1510,1600,7,M(CS)491,Numerical Methods Lab,Lab,SMU,CSELab Zone4&5
+2,C,C2,Thu,1510,1600,7,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C1,Fri,0920,1010,1,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C2,Fri,0920,1010,1,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,C,C1,Fri,1010,1100,2,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C2,Fri,1010,1100,2,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,C,C1,Fri,1100,1150,3,CS491,Communication Engineering & Coding Theory Lab,Lab,SHB,LG0.1
+2,C,C2,Fri,1100,1150,3,CS492,Software Tools Lab,Lab,SNR,CSELab Zone2&3
+2,C,,Fri,1150,1240,4,M401,Mathematics-3,Lecture,SS,LG3.3
+2,C,C1,Fri,1330,1420,5,CS493,Computer Architecture Lab,Lab,MKS,CSELab Zone0
+2,C,C2,Fri,1330,1420,5,HU481,Technical Report Writing,Lab,SNS,LG3.3
+2,C,C1,Fri,1420,1510,6,CS493,Computer Architecture Lab,Lab,MKS,CSELab Zone0
+2,C,C2,Fri,1420,1510,6,HU481,Technical Report Writing,Lab,SNS,LG3.3
+2,C,C1,Fri,1510,1600,7,CS493,Computer Architecture Lab,Lab,MKS,CSELab Zone0
+2,C,C2,Fri,1510,1600,7,HU481,Technical Report Writing,Lab,SNS,LG3.3
+2,C,,Sat,0920,1010,1,CS401,Communication Engineering & Coding Theory,Lecture,SHB,LG3.3
+2,C,,Sat,1010,1100,2,CS402,Formal Language & Automata Theory,Lecture,SNS,LG3.3
+2,C,,Sat,1100,1150,3,CS403,Computer Architecture,Lecture,SDS,LG3.3
+2,C,,Sat,1150,1240,4,FREE
+2,C,,Sat,1330,1420,5,CS403,Computer Architecture,Lecture,DB,LG3.3
+2,C,,Sat,1420,1510,6,CS403,Computer Architecture,Lecture,SDS,LG3.3
+2,C,,Sat,1510,1600,7,FREE
+3,A,,Tue,0920,1010,1,HU601,Principles of Management,Lecture,SHR,LG3.4
+3,A,,Tue,1010,1100,2,CS601,Database Management System,Lecture,NDR,LG3.4
+3,A,,Tue,1100,1150,3,CS602,Computer Networks,Lecture,APM,LG3.4
+3,A,,Tue,1150,1240,4,CS603,Operating System,Lecture,DRS,LG3.4
+3,A,A1,Tue,1330,1420,5,CS691,Database Management System Lab,Lab,NDR,CSELab Zone4&5
+3,A,A2,Tue,1330,1420,5,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A1,Tue,1420,1510,6,CS691,Database Management System Lab,Lab,NDR,CSELab Zone4&5
+3,A,A2,Tue,1420,1510,6,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A1,Tue,1510,1600,7,CS691,Database Management System Lab,Lab,NDR,CSELab Zone4&5
+3,A,A2,Tue,1510,1600,7,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A1,Wed,920,1010,1,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A2,Wed,920,1010,1,CS693,Operating System Lab,Lab,DRS,CCFL
+3,A,A1,Wed,1010,1100,2,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A2,Wed,1010,1100,2,CS693,Operating System Lab,Lab,DRS,CCFL
+3,A,A1,Wed,1100,1150,3,CS692,Network Lab,Lab,APM,Annex3.1
+3,A,A2,Wed,1100,1150,3,CS693,Operating System Lab,Lab,DRS,CCFL
+3,A,,Wed,1150,1240,4,HU601,Principles of Management,Lecture,SHR,LG3.4
+3,A,,Wed,1330,1420,5,CS603,Operating System,Lecture,DRS,LG3.4
+3,A,,Wed,1420,1510,6,CS602,Computer Networks,Lecture,MD,LG3.4
+3,A,,Wed,1510,1600,7,CS604B,Computer Graphics,Lecture,AKDS,LG3.4
+3,A,,Thu,0920,1010,1,CS601,Database Management System,Lecture,NDR,LG3.4
+3,A,,Thu,1010,1100,2,CS602,Computer Networks,Lecture,WONG,LG3.4
+3,A,,Thu,1100,1150,3,CS603,Operating System,Lecture,KB,LG3.4
+3,A,,Thu,1150,1240,4,CS604B,Computer Graphics,Lecture,SHM,LG3.4
+3,A,,Thu,1330,1420,5,CS605C,Multimedia Technology,Lecture,SNR,LG3.4
+3,A,,Thu,1420,1510,6,FREE
+3,A,,Thu,1510,1600,7,FREE
+3,A,A1,Fri,0920,1010,1,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,A,A2,Fri,0920,1010,1,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,A,A1,Fri,1010,1100,2,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,A,A2,Fri,1010,1100,2,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,A,A1,Fri,1100,1150,3,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,A,A2,Fri,1100,1150,3,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,A,,Fri,1150,1240,4,CS601,Database Management System,Lecture,DB,LG3.4
+3,A,,Fri,1330,1420,5,CS604B,Computer Graphics,Lecture,OB,LG3.4
+3,A,,Fri,1420,1510,6,CS605C,Multimedia Technology,Lecture,SCH,LG3.4
+3,A,,Fri,1510,1600,7,FREE
+3,A,,Sat,0920,1010,1,CS605C,Multimedia Technology,Lecture,SNS,LG3.4
+3,A,,Sat,1010,1100,2,FREE
+3,A,,Sat,1100,1150,3,FREE
+3,A,,Sat,1150,1240,4,FREE
+3,A,,Sat,1330,1420,5,FREE
+3,A,,Sat,1420,1510,6,FREE
+3,A,,Sat,1510,1600,7,FREE
+3,B,,Tue,0920,1010,1,CS601,Database Management System,Lecture,NDR,LG4.3
+3,B,,Tue,1010,1100,2,HU601,Principles of Management,Lecture,SHR,LG4.3
+3,B,,Tue,1100,1150,3,CS603,Operating System,Lecture,DRS,LG4.3
+3,B,,Tue,1150,1240,4,CS602,Computer Networks,Lecture,APM,LG4.3
+3,B,,Tue,1330,1420,5,CS604B,Computer Graphics,Lecture,AKDS,LG4.3
+3,B,,Tue,1420,1510,6,CS605C,Multimedia Technology,Lecture,SNR,LG4.3
+3,B,,Tue,1510,1600,7,FREE
+3,B,,Wed,920,1010,1,HU601,Principles of Management,Lecture,SHR,LG4.3
+3,B,,Wed,1010,1100,2,CS601,Database Management System,Lecture,NDR,LG4.3
+3,B,,Wed,1100,1150,3,CS604B,Computer Graphics,Lecture,SHM,LG4.3
+3,B,,Wed,1150,1240,4,CS603,Operating System,Lecture,DRS,LG4.3
+3,B,B1,Wed,1330,1420,5,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,B,B2,Wed,1330,1420,5,CS692,Network Lab,Lab,WONG,CCFL
+3,B,B1,Wed,1420,1510,6,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,B,B2,Wed,1420,1510,6,CS692,Network Lab,Lab,WONG,CCFL
+3,B,B1,Wed,1510,1600,7,CS691,Database Management System Lab,Lab,NDR,Annex3.1
+3,B,B2,Wed,1510,1600,7,CS692,Network Lab,Lab,WONG,CCFL
+3,B,B1,Thu,0920,1010,1,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,B,B2,Thu,0920,1010,1,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,B,B1,Thu,1010,1100,2,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,B,B2,Thu,1010,1100,2,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,B,B1,Thu,1100,1150,3,CS693,Operating System Lab,Lab,DRS,CSELab Zone4&5
+3,B,B2,Thu,1100,1150,3,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,B,,Thu,1150,1240,4,CS601,Database Management System,Lecture,DB,LG4.3
+3,B,,Thu,1330,1420,5,CS602,Computer Networks,Lecture,MD,LG4.3
+3,B,,Thu,1420,1510,6,CS604B,Computer Graphics,Lecture,OB,LG4.3
+3,B,,Thu,1510,1600,7,CS605C,Multimedia Technology,Lecture,SCH,LG4.3
+3,B,,Fri,0920,1010,1,CS602,Computer Networks,Lecture,WONG,LG4.3
+3,B,,Fri,1010,1100,2,CS603,Operating System,Lecture,KB,LG4.3
+3,B,,Fri,1100,1150,3,CS605C,Multimedia Technology,Lecture,SNS,LG4.3
+3,B,,Fri,1150,1240,4,FREE
+3,B,B1,Fri,1330,1420,5,CS692,Network Lab,Lab,APM,CSELab Zone2&3
+3,B,B2,Fri,1330,1420,5,CS693,Operating System Lab,Lab,KB,CSELab Zone4&5
+3,B,B1,Fri,1420,1510,6,CS692,Network Lab,Lab,APM,CSELab Zone2&3
+3,B,B2,Fri,1420,1510,6,CS693,Operating System Lab,Lab,KB,CSELab Zone4&5
+3,B,B1,Fri,1510,1600,7,CS692,Network Lab,Lab,APM,CSELab Zone2&3
+3,B,B2,Fri,1510,1600,7,CS693,Operating System Lab,Lab,KB,CSELab Zone4&5
+3,B,,Sat,0920,1010,1,FREE
+3,B,,Sat,1010,1100,2,FREE
+3,B,,Sat,1100,1150,3,FREE
+3,B,,Sat,1150,1240,4,FREE
+3,B,,Sat,1330,1420,5,FREE
+3,B,,Sat,1420,1510,6,FREE
+3,B,,Sat,1510,1600,7,FREE
+3,C,,Tue,0920,1010,1,CS602,Computer Networks,Lecture,APM,LG4.5
+3,C,,Tue,1010,1100,2,CS603,Operating System,Lecture,DRS,LG4.5
+3,C,,Tue,1100,1150,3,HU601,Principles of Management,Lecture,SHR,LG4.5
+3,C,,Tue,1150,1240,4,CS601,Database Management System,Lecture,NDR,LG4.5
+3,C,,Tue,1330,1420,5,CS605C,Multimedia Technology,Lecture,SNR,LG4.5
+3,C,,Tue,1420,1510,6,CS604B,Computer Graphics,Lecture,AKDS,LG4.5
+3,C,,Tue,1510,1600,7,FREE
+3,C,,Wed,920,1010,1,CS601,Database Management System,Lecture,DB,LG4.5
+3,C,,Wed,1010,1100,2,HU601,Principles of Management,Lecture,SHR,LG4.5
+3,C,,Wed,1100,1150,3,CS604B,Computer Graphics,Lecture,SS,LG4.5
+3,C,,Wed,1150,1240,4,CS603,Operating System,Lecture,KB,LG4.5
+3,C,,Wed,1330,1420,5,CS605C,Multimedia Technology,Lecture,SNR,LG4.5
+3,C,,Wed,1420,1510,6,FREE
+3,C,,Wed,1510,1600,7,CS602,Computer Networks,Lecture,MD,LG4.5
+3,C,,Thu,0920,1010,1,CS601,Database Management System,Lecture,DB,LG4.5
+3,C,,Thu,1010,1100,2,CS603,Operating System,Lecture,KB,LG4.5
+3,C,,Thu,1100,1150,3,CS602,Computer Networks,Lecture,WONG,LG4.5
+3,C,,Thu,1150,1240,4,CS604B,Computer Graphics,Lecture,SS,LG4.5
+3,C,C1,Thu,1330,1420,5,CS692,Network Lab,Lab,WONG,Annex3.1
+3,C,C2,Thu,1330,1420,5,CS693,Operating System Lab,Lab,MKS,CCFL
+3,C,C1,Thu,1420,1510,6,CS692,Network Lab,Lab,WONG,Annex3.1
+3,C,C2,Thu,1420,1510,6,CS693,Operating System Lab,Lab,MKS,CCFL
+3,C,C1,Thu,1510,1600,7,CS692,Network Lab,Lab,WONG,Annex3.1
+3,C,C2,Thu,1510,1600,7,CS693,Operating System Lab,Lab,MKS,CCFL
+3,C,,Fri,0920,1010,1,CS605C,Multimedia Technology,Lecture,SNS,LG4.5
+3,C,,Fri,1010,1100,2,FREE
+3,C,,Fri,1100,1150,3,FREE
+3,C,,Fri,1150,1240,4,FREE
+3,C,C1,Fri,1330,1420,5,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,C,C2,Fri,1330,1420,5,CS692,Network Lab,Lab,WONG,CCFL
+3,C,C1,Fri,1420,1510,6,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,C,C2,Fri,1420,1510,6,CS692,Network Lab,Lab,WONG,CCFL
+3,C,C1,Fri,1510,1600,7,CS691,Database Management System Lab,Lab,AKDS,Annex3.1
+3,C,C2,Fri,1510,1600,7,CS692,Network Lab,Lab,WONG,CCFL
+3,C,C1,Sat,0920,1010,1,CS693,Operating System Lab,Lab,MKS,CSELab Zone2&3
+3,C,C2,Sat,0920,1010,1,CS691,Database Management System Lab,Lab,SHM,CSELab Zone4&5
+3,C,C1,Sat,1010,1100,2,CS693,Operating System Lab,Lab,MKS,CSELab Zone2&3
+3,C,C2,Sat,1010,1100,2,CS691,Database Management System Lab,Lab,SHM,CSELab Zone4&5
+3,C,C1,Sat,1100,1150,3,CS693,Operating System Lab,Lab,MKS,CSELab Zone2&3
+3,C,C2,Sat,1100,1150,3,CS691,Database Management System Lab,Lab,SHM,CSELab Zone4&5
+3,C,,Sat,1150,1240,4,FREE
+3,C,,Sat,1330,1420,5,FREE
+3,C,,Sat,1420,1510,6,FREE
+3,C,,Sat,1510,1600,7,FREE
